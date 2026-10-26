@@ -1,4 +1,4 @@
-  ${{\color{#E9C8D1}{\textsf{updating soon   👀}}}}$
+<table><th>${{\color{#E9C8D1}{\textsf{updating soon   👀}}}}$</th></table>
 
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
 
