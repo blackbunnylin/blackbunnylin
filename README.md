@@ -1,7 +1,7 @@
 ## updating soon 👀
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
 
-$\color{#E9C8D1}{\text{This text uses a hex code}}$
+$\color{#E9C8D1}{\text{w e l c o m e}}$
 <!--
 **blackbunnylin/blackbunnylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
