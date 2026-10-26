@@ -1,7 +1,7 @@
 ## updating soon 👀
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
 
-<p><font size="4"><b>$\color{#E9C8D1}{\text{nice to meet you}}$</b></font></p>
+<p><font size="4"><b> $\color{#E9C8D1}{\text{nice to meet you}}$ </b></font></p>
 <!--
 **blackbunnylin/blackbunnylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
