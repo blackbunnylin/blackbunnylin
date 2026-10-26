@@ -1,4 +1,7 @@
-<p align="center"><table><th>${{\color{#E9C8D1}{\textsf{updating soon   👀}}}}$</th></table></p>
+<p align="center">${{\color{#E9C8D1}{\textsf{updating soon   👀}}}}$</p>
+
+
+
 
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
 
