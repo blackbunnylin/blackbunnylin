@@ -10,7 +10,7 @@
 </p>
 
 [atabook!](https://moonlight.atabook.org/)
-
+[discord :3](https://discord.com/users/1539325812271091764)
 <!--
 **blackbunnylin/blackbunnylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
