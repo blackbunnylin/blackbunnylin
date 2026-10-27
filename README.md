@@ -1,4 +1,5 @@
-<p align="center">${{\color{#E9C8D1}{\textsf{don't copy my skins please 𖹭}}}}$</p>
+<p align="center">${{\color{#999292}{\textsf{don't copy my skins please 𖹭}}}}$</p>
+<p align="center">${{\color{#999292}{\textsf{c*h always ok !}}}}$</p>
 
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
 
