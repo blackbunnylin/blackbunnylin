@@ -5,7 +5,7 @@
 <p align="center">${{\color{#E9C8D1}{\textsf{﹒ . 🐰 𓏲   li , lili , lin (pref) ゛𓏼 !!   }}}}$</p>
 <p align="center">${{\color{#E9C8D1}{\textsf{16yo ⸝⸝ finnish ⸝⸝ multifandom ⸝⸝ c*h always ok ‹𝟑 }}}}$</p>
 
-![App Demo!](https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/tumblr_lok4jiwn6f1qhh19q.gif)
+<p align="center">![App Demo!](https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/barrinhasparablogbrushesphotoscapebuttonsbackgroundsblogtumblrbrushephotoscape20110719-div26.gif)</p>
 
 <!--
 **blackbunnylin/blackbunnylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
