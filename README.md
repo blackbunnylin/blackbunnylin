@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://giphy.com/stickers/pixel-lovebite-bruisemylegs-emxwVCweY8xcbWr22j" alt=>
-</p>
+<div align="center">
+  <img src="https://giphy.com/stickers/pixel-lovebite-bruisemylegs-emxwVCweY8xcbWr22j" alt="welcome">
+</div>
+
 
 <p align="center">${{\color{#8B8383}{\textsf{꒰ . 🖤 。c*h always ok .ᐟ ֹ ₊ ꒱}}}}$</p>
 <p align="center">${{\color{#ffffff}{\textsf{don't copy my skins please 𖹭}}}}$</p>
