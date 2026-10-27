@@ -3,10 +3,12 @@
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
 
 <details>
-  <summary>about me</summary>
-- 16yo
-- finnish
-- multifandom 
+  <summary>about me :3</summary>
+• 16yo
+• finnish
+• multifandom 
+• autistic
+• infj 
 </details>
 
 <!--
