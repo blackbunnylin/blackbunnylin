@@ -22,7 +22,10 @@
   <a href="https://discord.com/users/1539325812271091764">discord</a>
 </p>
 
-<p align="center">${{\color{#8B8383}{\textsf{thank you for reading !!bye~ }}}}$</p>
+<p align="center">${{\color{#8B8383}{\textsf{thank you for reading !! }}}}$</p>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycW81OTk2bnhlaDZrczR1dm9waGRuMDZvN2lhMzlzYXo4ZXQxZWh4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/emxwVCweY8xcbWr22j/giphy.gif" width="25%">
+</p>
 
 <!--
 **blackbunnylin/blackbunnylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
