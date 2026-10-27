@@ -2,7 +2,7 @@
 
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
 
-<p align="center">${{\color{#E9C8D1}{\textsf{li , lili, lin}}}}$</p>
+<p align="center">${{\color{#E9C8D1}{\textsf{﹒ 𑣲　𓏼　li , lili , lin (pref)  🐰 ⌣  }}}}$</p>
 
 <!--
 **blackbunnylin/blackbunnylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
