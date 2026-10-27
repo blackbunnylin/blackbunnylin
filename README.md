@@ -22,6 +22,7 @@
   <a href="https://discord.com/users/1539325812271091764">discord</a>
 </p>
 
+<p align="center">${{\color{#8B8383}{\textsf{thank you for reading !!}}}}$</p>
 
 <!--
 **blackbunnylin/blackbunnylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
