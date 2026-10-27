@@ -25,6 +25,25 @@
 </table>
 
 
+<p align="center">
+  <nobr>
+    <img src="https://URL_TÄHÄN_VASEN.gif" width="50" valign="middle">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <details style="display:inline;"><summary><b>Ensimmäinen otsikko</b></summary>Tähän tulee teksti.</details>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <details style="display:inline;"><summary><b>Toinen otsikko</b></summary>Tähän tulee teksti.</details>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://URL_TÄHÄN_OIKEA.gif" width="50" valign="middle">
+  </nobr>
+</p>
+
+
+
+
+
+
+
+
 <details>
   <summary>about me :3</summary>
 • 16yo
