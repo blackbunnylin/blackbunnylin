@@ -1,4 +1,4 @@
-<p align="center">${{\color{#ffffff}{\textsf{꒰ . 🖤 。c*h always ok ◟ `` ˖}}}}$</p>
+<p align="center">${{\color{#8B8383}{\textsf{꒰ . 🖤 。c*h always ok .ᐟ ֹ ₊ ꒱}}}}$</p>
 <p align="center">${{\color{#ffffff}{\textsf{don't copy my skins please 𖹭}}}}$</p>
 
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
