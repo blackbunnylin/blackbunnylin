@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://giphy.com/stickers/pixel-lovebite-bruisemylegs-emxwVCweY8xcbWr22j" alt="welcome">
-</div>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycW81OTk2bnhlaDZrczR1dm9waGRuMDZvN2lhMzlzYXo4ZXQxZWh4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/emxwVCweY8xcbWr22j/giphy.gif">
+</p>
+
 
 
 <p align="center">${{\color{#8B8383}{\textsf{꒰ . 🖤 。c*h always ok .ᐟ ֹ ₊ ꒱}}}}$</p>
