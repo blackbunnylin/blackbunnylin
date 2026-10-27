@@ -1,4 +1,4 @@
-<img src="https://giphy.com/stickers/pixel-lovebite-bruiwse-W1TWQjQ9igCTk9bdpp?utm_source=Pinterest&utm_medium=organic" align="right" width="300" alt="c*h always ok :3">
+<p align="center">${{\color{#ffffff}{\textsf{꒰ . 🖤 。c*h always ok ◟ `` ˖}}}}$</p>
 <p align="center">${{\color{#ffffff}{\textsf{don't copy my skins please 𖹭}}}}$</p>
 
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
