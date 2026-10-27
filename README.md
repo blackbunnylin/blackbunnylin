@@ -3,7 +3,7 @@
 
 ![App Demo!](https://files.catbox.moe/qnlrh3.gif?utm_source=Pinterest&utm_medium=organic)
 
-<p align="center">${{\color{#ffffff}{\textsf{﹒ . 🐰 𓏲   li , lili , lin (pref) ゛𓏼 !!   }}}}$</p>
+<p align="center">${{\color{#ffffff}{\textsf{﹒  🐰 𓏲   li , lili , lin (pref) ゛𓏼 !!   }}}}$</p>
 <p align="center">${{\color{#E9C8D1}{\textsf{16yo ⸝⸝ finnish ⸝⸝ multifandom ⸝⸝ ∞  ﹠ ⴵ }}}}$</p>
 
 <p align="center">
