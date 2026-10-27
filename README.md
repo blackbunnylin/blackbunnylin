@@ -9,8 +9,13 @@
   <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/barrinhasparablogbrushesphotoscapebuttonsbackgroundsblogtumblrbrushephotoscape20110719-div26.gif" alt="GIF-kuvan kuvaus">
 </p>
 
-[atabook!](https://moonlight.atabook.org/)
-[discord :3](https://discord.com/users/1539325812271091764)
+<p align="center">
+  <a href="https://moonlight.atabook.org/">atabook</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://discord.com/users/1539325812271091764">discord</a>
+</p>
+
+
 <!--
 **blackbunnylin/blackbunnylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
